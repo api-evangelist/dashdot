@@ -64,5 +64,20 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-dash. is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://getdashdot.com/
+Dashdot is an open-source, self‑hosted server monitoring dashboard designed for single‑node setups. It provides a lightweight, glass‑morphic UI with dynamic backgrounds, real‑time metrics, and easy Docker deployment. Ideal for developers and sysadmins seeking a simple yet powerful way to keep an eye on system health without relying on external services.
+
+**Areas:** Monitoring · OpenSource · Dashboard · Server · SingleNode · Docker
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://getdashdot.com/)
+- [Documentation](https://getdashdot.com/docs)
+- [Support](https://discord.gg/3teHFBNQ9W)
+
+**APIs profiled:** 1
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/dashdot/](https://apis.io/providers/dashdot/).
